@@ -1,2 +1,1 @@
-# linkaja
-linkaja
+# safelink-v2
